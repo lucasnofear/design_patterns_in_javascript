@@ -1,4 +1,4 @@
-# Design Patterns In Python
+# Design Patterns In Javascript
 
 This is the source code for my practice of design patterns in modern Javascript. As the web development
 ecosystem has changed rapidly, the well-known design patterns may not be as valuable as they used to be, 
